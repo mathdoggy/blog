@@ -17,7 +17,7 @@
 | 5 | [ ]( ) |
 
 ## License
-[MIT License](https://mathdoggy.github.io/LICENSE): © 2025 [Mathrew Doggy](mrchanmp@disroot.org)
+[MIT License](https://github.com/mathdoggy/blog/blob/main/LICENSE): © 2025 [Mathrew Doggy](mrchanmp@disroot.org)
 
 ## Status Badge
 
